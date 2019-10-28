@@ -3,5 +3,9 @@
   "version": "0.0.1",
   "description": "The generated files for protocol buffers for Google APIs",
   "author": "at-ishikawa",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-protoc-gen": "^0.12.0"
+  }
 }
