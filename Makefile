@@ -10,3 +10,8 @@ proto/js:
 		--js_out=import_style=commonjs,binary:javascript \
 		--ts_out=javascript \
 		third_party/googleapis/google/rpc/*.proto
+
+publish: publish/js
+
+publish/js:
+	npm publish --access public
