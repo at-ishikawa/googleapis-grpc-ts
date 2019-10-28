@@ -1,0 +1,7 @@
+{
+  "name": "@at-ishikawa/googleapis-grpc-ts",
+  "version": "0.0.1",
+  "description": "The generated files for protocol buffers for Google APIs",
+  "author": "at-ishikawa",
+  "license": "MIT"
+}
