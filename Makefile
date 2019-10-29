@@ -14,4 +14,4 @@ proto/js:
 publish: publish/js
 
 publish/js:
-	npm publish --access public
+	cd javascript && npm publish --access public && cd ..

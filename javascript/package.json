@@ -1,0 +1,18 @@
+{
+  "name": "@at-ishikawa/googleapis-protobuf",
+  "version": "0.0.2",
+  "description": "The generated files for protocol buffers for Google APIs",
+  "author": "at-ishikawa",
+  "license": "MIT",
+  "dependencies": {
+    "google-protobuf": "^3.10.0"
+  },
+  "homepage": "https://github.com/at-ishikawa/googleapis-protobuf",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/at-ishikawa/googleapis-protobuf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/at-ishikawa/googleapis-protobuf/issues"
+  }
+}
