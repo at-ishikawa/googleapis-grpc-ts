@@ -18,3 +18,8 @@ const {
   BadRequest
 } = require('@at-ishikawa/googleapis-protobuf/google/rpc/error_details_pb.js');
 ```
+
+You can see more examples [here](https://github.com/at-ishikawa/googleapis-protobuf/tree/master/examples/javascript)
+
+# Notice
+Before the library becomes stable, a.k.a version < 1.0.0, this library could have BREAKING CHANGES.
