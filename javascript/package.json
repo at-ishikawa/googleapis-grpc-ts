@@ -1,13 +1,13 @@
 {
   "name": "@at-ishikawa/googleapis-protobuf",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "The generated files for protocol buffers for Google APIs",
   "author": "at-ishikawa",
   "license": "MIT",
   "dependencies": {
     "google-protobuf": "^3.10.0"
   },
-  "homepage": "https://github.com/at-ishikawa/googleapis-protobuf",
+  "homepage": "https://github.com/at-ishikawa/googleapis-protobuf/tree/master/javascript",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/at-ishikawa/googleapis-protobuf.git"
