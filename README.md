@@ -4,6 +4,7 @@ This repository is designed to store generated files for protocol buffers for ot
 
 # The target proto packages and languages
 1. google.rpc: JavaScript, TypeScript
+1. google.protobuf.Any: JavaScript, TypeScript
 
 # Generated environment
 1. OS: Mac OS

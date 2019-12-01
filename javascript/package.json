@@ -1,6 +1,6 @@
 {
   "name": "@at-ishikawa/googleapis-protobuf",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "The generated files for protocol buffers for Google APIs",
   "author": "at-ishikawa",
   "license": "MIT",
