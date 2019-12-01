@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@at-ishikawa/googleapis-protobuf": "^0.0.5"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2",
+    "@types/node": "^12.12.14"
+  }
+}
